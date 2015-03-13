@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@+id/widget27"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	xmlns:android="http://schemas.android.com/apk/res/android">
+	<LinearLayout android:id="@+id/widget70"
+		android:layout_width="fill_parent" android:layout_height="fill_parent"
+		android:orientation="vertical" android:layout_alignParentTop="true"
+		android:layout_alignParentLeft="true">
+		<TextView android:id="@+id/widget72" android:layout_width="fill_parent"
+			android:layout_height="wrap_content" android:text="@string/statistics_table"
+			android:background="@drawable/color2"
+			android:textSize="16sp" android:textStyle="bold" android:textColor="@drawable/black">
+		</TextView>
+		<ListView android:id="@+id/statistics_lv"
+			android:layout_width="fill_parent" android:layout_height="fill_parent">
+		</ListView>
+	</LinearLayout>
+</RelativeLayout>

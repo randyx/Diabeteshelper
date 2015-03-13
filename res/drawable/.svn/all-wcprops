@@ -1,0 +1,635 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/12/trunk/android-misc-widgets/res/drawable
+END
+bottom_switcher_expanded_background.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3/trunk/android-misc-widgets/res/drawable/bottom_switcher_expanded_background.xml
+END
+arrow_right_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12/trunk/android-misc-widgets/res/drawable/arrow_right_normal.png
+END
+frame.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12/trunk/android-misc-widgets/res/drawable/frame.9.png
+END
+btn_default_normal.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5/trunk/android-misc-widgets/res/drawable/btn_default_normal.9.png
+END
+arrow_down_pressed.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12/trunk/android-misc-widgets/res/drawable/arrow_down_pressed.png
+END
+i_btn.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/7/trunk/android-misc-widgets/res/drawable/i_btn.xml
+END
+textfield_selected.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5/trunk/android-misc-widgets/res/drawable/textfield_selected.9.png
+END
+left_switcher_collapsed_selected.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/android-misc-widgets/res/drawable/left_switcher_collapsed_selected.9.png
+END
+arrow_left_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12/trunk/android-misc-widgets/res/drawable/arrow_left_normal.png
+END
+vk_enter.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/trunk/android-misc-widgets/res/drawable/vk_enter.png
+END
+arrow_right_disabled.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12/trunk/android-misc-widgets/res/drawable/arrow_right_disabled.png
+END
+top_switcher_collapsed_selected.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/android-misc-widgets/res/drawable/top_switcher_collapsed_selected.9.png
+END
+arrow_left.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12/trunk/android-misc-widgets/res/drawable/arrow_left.xml
+END
+bottom_switcher_collapsed_selected.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3/trunk/android-misc-widgets/res/drawable/bottom_switcher_collapsed_selected.9.png
+END
+right_switcher_collapsed.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/android-misc-widgets/res/drawable/right_switcher_collapsed.9.png
+END
+textfield_pressed.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5/trunk/android-misc-widgets/res/drawable/textfield_pressed.9.png
+END
+silver_button0.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12/trunk/android-misc-widgets/res/drawable/silver_button0.9.png
+END
+textfield_disabled.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5/trunk/android-misc-widgets/res/drawable/textfield_disabled.9.png
+END
+silver_button2.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12/trunk/android-misc-widgets/res/drawable/silver_button2.9.png
+END
+icon.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/android-misc-widgets/res/drawable/icon.png
+END
+btn_default_normal_disable.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5/trunk/android-misc-widgets/res/drawable/btn_default_normal_disable.9.png
+END
+arrow_down_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12/trunk/android-misc-widgets/res/drawable/arrow_down_normal.png
+END
+right_switcher_collapsed_focused.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/android-misc-widgets/res/drawable/right_switcher_collapsed_focused.9.png
+END
+silver_button4.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12/trunk/android-misc-widgets/res/drawable/silver_button4.9.png
+END
+btn_dropdown_pressed.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5/trunk/android-misc-widgets/res/drawable/btn_dropdown_pressed.9.png
+END
+vk_button_toggle_selected.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5/trunk/android-misc-widgets/res/drawable/vk_button_toggle_selected.9.png
+END
+silver_button6.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12/trunk/android-misc-widgets/res/drawable/silver_button6.9.png
+END
+red_button1.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12/trunk/android-misc-widgets/res/drawable/red_button1.9.png
+END
+red_button3.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12/trunk/android-misc-widgets/res/drawable/red_button3.9.png
+END
+left_switcher_collapsed.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/android-misc-widgets/res/drawable/left_switcher_collapsed.9.png
+END
+red_button5.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12/trunk/android-misc-widgets/res/drawable/red_button5.9.png
+END
+btn_default_normal_disable_focused.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5/trunk/android-misc-widgets/res/drawable/btn_default_normal_disable_focused.9.png
+END
+red_button7.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12/trunk/android-misc-widgets/res/drawable/red_button7.9.png
+END
+bottom_switcher_expanded_selected.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3/trunk/android-misc-widgets/res/drawable/bottom_switcher_expanded_selected.9.png
+END
+edit_text.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/trunk/android-misc-widgets/res/drawable/edit_text.xml
+END
+arrow_up_normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12/trunk/android-misc-widgets/res/drawable/arrow_up_normal.png
+END
+left_switcher_collapsed_focused.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/android-misc-widgets/res/drawable/left_switcher_collapsed_focused.9.png
+END
+top_switcher_collapsed.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/android-misc-widgets/res/drawable/top_switcher_collapsed.9.png
+END
+arrow_down_disabled.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12/trunk/android-misc-widgets/res/drawable/arrow_down_disabled.png
+END
+right_switcher_expanded_background.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/android-misc-widgets/res/drawable/right_switcher_expanded_background.xml
+END
+silver_button.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12/trunk/android-misc-widgets/res/drawable/silver_button.xml
+END
+arrow_right_pressed.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12/trunk/android-misc-widgets/res/drawable/arrow_right_pressed.png
+END
+vk_shift.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/trunk/android-misc-widgets/res/drawable/vk_shift.png
+END
+silver_button_selected.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/12/trunk/android-misc-widgets/res/drawable/silver_button_selected.9.png
+END
+btn_dropdown_normal.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5/trunk/android-misc-widgets/res/drawable/btn_dropdown_normal.9.png
+END
+top_switcher_collapsed_focused.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/android-misc-widgets/res/drawable/top_switcher_collapsed_focused.9.png
+END
+left_switcher_expanded.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/android-misc-widgets/res/drawable/left_switcher_expanded.9.png
+END
+red_button.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12/trunk/android-misc-widgets/res/drawable/red_button.xml
+END
+arrow_up_pressed.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12/trunk/android-misc-widgets/res/drawable/arrow_up_pressed.png
+END
+vk_zoom.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/trunk/android-misc-widgets/res/drawable/vk_zoom.png
+END
+silver_transition_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/12/trunk/android-misc-widgets/res/drawable/silver_transition_list.xml
+END
+left_switcher_expanded_background.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/android-misc-widgets/res/drawable/left_switcher_expanded_background.xml
+END
+right_switcher_collapsed_background.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3/trunk/android-misc-widgets/res/drawable/right_switcher_collapsed_background.xml
+END
+i_btn_pressed.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/7/trunk/android-misc-widgets/res/drawable/i_btn_pressed.9.png
+END
+left_switcher_expanded_focused.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/android-misc-widgets/res/drawable/left_switcher_expanded_focused.9.png
+END
+top_switcher_expanded.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/android-misc-widgets/res/drawable/top_switcher_expanded.9.png
+END
+vk_button_selected.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5/trunk/android-misc-widgets/res/drawable/vk_button_selected.9.png
+END
+bottom_switcher_expanded.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/android-misc-widgets/res/drawable/bottom_switcher_expanded.9.png
+END
+top_switcher_expanded_background.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/android-misc-widgets/res/drawable/top_switcher_expanded_background.xml
+END
+arrow_down.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12/trunk/android-misc-widgets/res/drawable/arrow_down.xml
+END
+top_switcher_expanded_focused.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/android-misc-widgets/res/drawable/top_switcher_expanded_focused.9.png
+END
+bottom_switcher_expanded_focused.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/android-misc-widgets/res/drawable/bottom_switcher_expanded_focused.9.png
+END
+textfield_default.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5/trunk/android-misc-widgets/res/drawable/textfield_default.9.png
+END
+btn_default.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5/trunk/android-misc-widgets/res/drawable/btn_default.xml
+END
+right_switcher_expanded.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/android-misc-widgets/res/drawable/right_switcher_expanded.9.png
+END
+btn_default_selected.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5/trunk/android-misc-widgets/res/drawable/btn_default_selected.9.png
+END
+i_btn_normal.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/7/trunk/android-misc-widgets/res/drawable/i_btn_normal.9.png
+END
+right_switcher_expanded_selected.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/android-misc-widgets/res/drawable/right_switcher_expanded_selected.9.png
+END
+right_switcher_expanded_focused.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/android-misc-widgets/res/drawable/right_switcher_expanded_focused.9.png
+END
+vk_backspace.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5/trunk/android-misc-widgets/res/drawable/vk_backspace.png
+END
+i_title_gradient.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/7/trunk/android-misc-widgets/res/drawable/i_title_gradient.xml
+END
+silver_button1.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12/trunk/android-misc-widgets/res/drawable/silver_button1.9.png
+END
+left_switcher_expanded_selected.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/android-misc-widgets/res/drawable/left_switcher_expanded_selected.9.png
+END
+arrow_left_pressed.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12/trunk/android-misc-widgets/res/drawable/arrow_left_pressed.png
+END
+silver_button3.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12/trunk/android-misc-widgets/res/drawable/silver_button3.9.png
+END
+right_switcher_collapsed_selected.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3/trunk/android-misc-widgets/res/drawable/right_switcher_collapsed_selected.9.png
+END
+silver_button5.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12/trunk/android-misc-widgets/res/drawable/silver_button5.9.png
+END
+arrow_left_disabled.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12/trunk/android-misc-widgets/res/drawable/arrow_left_disabled.png
+END
+red_button0.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12/trunk/android-misc-widgets/res/drawable/red_button0.9.png
+END
+silver_button7.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12/trunk/android-misc-widgets/res/drawable/silver_button7.9.png
+END
+red_button2.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12/trunk/android-misc-widgets/res/drawable/red_button2.9.png
+END
+textfield_disabled_selected.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5/trunk/android-misc-widgets/res/drawable/textfield_disabled_selected.9.png
+END
+scrollbar_handle_vertical.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5/trunk/android-misc-widgets/res/drawable/scrollbar_handle_vertical.9.png
+END
+vk_zoom_handle.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/trunk/android-misc-widgets/res/drawable/vk_zoom_handle.png
+END
+red_button4.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12/trunk/android-misc-widgets/res/drawable/red_button4.9.png
+END
+top_switcher_expanded_selected.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/android-misc-widgets/res/drawable/top_switcher_expanded_selected.9.png
+END
+red_button6.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12/trunk/android-misc-widgets/res/drawable/red_button6.9.png
+END
+arrow_right.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12/trunk/android-misc-widgets/res/drawable/arrow_right.xml
+END
+left_switcher_collapsed_background.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/android-misc-widgets/res/drawable/left_switcher_collapsed_background.xml
+END
+vk_tab.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/trunk/android-misc-widgets/res/drawable/vk_tab.png
+END
+vk_button_ctrl.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/trunk/android-misc-widgets/res/drawable/vk_button_ctrl.9.png
+END
+bottom_switcher_collapsed.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/android-misc-widgets/res/drawable/bottom_switcher_collapsed.9.png
+END
+arrow_up.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12/trunk/android-misc-widgets/res/drawable/arrow_up.xml
+END
+btn_dropdown.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5/trunk/android-misc-widgets/res/drawable/btn_dropdown.xml
+END
+top_switcher_collapsed_background.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/android-misc-widgets/res/drawable/top_switcher_collapsed_background.xml
+END
+title_bar.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/7/trunk/android-misc-widgets/res/drawable/title_bar.9.png
+END
+bottom_switcher_collapsed_background.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3/trunk/android-misc-widgets/res/drawable/bottom_switcher_collapsed_background.xml
+END
+btn_dropdown_selected.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5/trunk/android-misc-widgets/res/drawable/btn_dropdown_selected.9.png
+END
+bottom_switcher_collapsed_focused.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3/trunk/android-misc-widgets/res/drawable/bottom_switcher_collapsed_focused.9.png
+END
+vk_button.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5/trunk/android-misc-widgets/res/drawable/vk_button.9.png
+END
+btn_default_pressed.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5/trunk/android-misc-widgets/res/drawable/btn_default_pressed.9.png
+END
+scrollbar_vertical.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5/trunk/android-misc-widgets/res/drawable/scrollbar_vertical.9.png
+END
+red_button_selected.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/12/trunk/android-misc-widgets/res/drawable/red_button_selected.9.png
+END
+arrow_up_disabled.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12/trunk/android-misc-widgets/res/drawable/arrow_up_disabled.png
+END
+red_transition_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12/trunk/android-misc-widgets/res/drawable/red_transition_list.xml
+END

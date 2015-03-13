@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/content" android:orientation="vertical"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	android:background="#FFF4F4F4">
+	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+		android:orientation="vertical" android:layout_width="fill_parent"
+		android:layout_height="fill_parent" android:layout_weight="1"
+		android:layout_marginLeft="0dip" android:layout_marginRight="0dip"
+		android:layout_marginTop="0dip" android:layout_marginBottom="0dip">
+
+		<ListView android:id="@+id/reminder_list" android:background="#FFF4F4F4"
+			android:layout_width="fill_parent" android:layout_height="wrap_content"
+			android:cacheColorHint="#FFF4F4F4" 
+			android:dividerHeight="0.0dip">
+		</ListView>
+	</LinearLayout>
+
+
+	<LinearLayout android:id="@+id/bottom"
+		xmlns:android="http://schemas.android.com/apk/res/android"
+		android:orientation="vertical" android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:background="@drawable/i_title_gradient_d">
+
+		<GridView xmlns:android="http://schemas.android.com/apk/res/android"
+			android:layout_width="fill_parent" android:layout_height="fill_parent"
+			android:layout_centerInParent="true" android:id="@+id/reminder_grid"
+			android:horizontalSpacing="10dip" android:verticalSpacing="20dip"
+			android:numColumns="1" android:gravity="center"></GridView>
+
+	</LinearLayout>
+</LinearLayout>
+

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"  
+     android:id="@+id/ScrollView" android:layout_width="fill_parent"  
+     android:layout_height="wrap_content" android:scrollbars="vertical"> 
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+      android:scrollbars="vertical"
+ >
+ 
+        <TextView
+        android:id="@+id/normal_men"
+        android:layout_width="fill_parent" android:layout_height="wrap_content"
+        android:gravity="fill"
+        android:textSize="15sp"
+        android:typeface="serif"
+        android:text="1"
+        android:textStyle="bold"/>
+        
+        <ImageView android:id="@+id/fen" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="5px" android:src="@drawable/fen" /> 
+          
+        <TextView
+            android:id="@+id/fat_men"
+            android:layout_width="fill_parent" android:layout_height="wrap_content"
+        android:gravity="fill_horizontal"
+        android:textSize="15sp"
+        android:typeface="serif"
+        android:text="2"
+        android:textStyle="bold"/>
+   
+        <ImageView android:id="@+id/fen" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="5px" android:src="@drawable/fen"
+        /> 
+        <TextView
+            android:id="@+id/normal_women"
+            android:layout_width="fill_parent" android:layout_height="wrap_content"
+        android:gravity="fill_horizontal"
+        android:textSize="15sp"
+        android:typeface="serif"
+        android:text="3"
+        android:textStyle="bold"/>
+        
+        <ImageView android:id="@+id/fen" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="5px" android:src="@drawable/fen"/> 
+        
+        <TextView
+            android:id="@+id/fat_women"
+            android:layout_width="fill_parent" android:layout_height="wrap_content"
+        android:gravity="fill_horizontal"
+         android:textSize="15sp"
+        android:typeface="serif"
+        android:text="4"
+        android:textStyle="bold"/>
+           
+       
+</LinearLayout>
+</ScrollView>
+

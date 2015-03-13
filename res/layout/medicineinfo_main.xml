@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:padding="4dip"
+
+>
+	<ViewAnimator
+		android:id="@+id/animator"
+	    android:layout_width="fill_parent" 
+	    android:layout_height="fill_parent"
+	    
+	>
+		<LinearLayout
+			android:id="@+id/m0"
+		    android:orientation="vertical"
+		    android:layout_width="fill_parent"
+		    android:layout_height="fill_parent"
+		    
+
+		>
+		<LinearLayout
+android:id="@+id/widget35"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:orientation="vertical"
+android:background="@drawable/no"
+>
+			<TextView
+			    android:layout_width="fill_parent" 
+			    android:layout_height="wrap_content" 
+			    android:text="请输入提醒名称:"
+			    android:textSize="20dip"
+			    android:textStyle="bold"
+			    android:textColor="@drawable/black"
+			    android:paddingTop="28dip"
+			    android:paddingBottom="8dip"
+			    android:layout_marginLeft="25px"
+			    android:layout_marginRight="25px"
+			/>
+			<EditText
+				android:id="@+id/reminder_name"
+			    android:layout_width="fill_parent" 
+			    android:layout_height="wrap_content" 
+			    android:layout_marginLeft="25px"
+			    android:paddingBottom="8dip"
+			    android:layout_marginRight="25px"
+			/>
+			<Button
+				android:id="@+id/photograph"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:layout_marginLeft="25px"
+			    android:layout_marginRight="25px"
+				android:text="确定" />
+			</LinearLayout>
+		</LinearLayout>
+		
+		
+		<LinearLayout
+			android:id="@+id/m1"
+		    android:orientation="vertical"
+		    android:layout_width="fill_parent"
+		    android:layout_height="fill_parent"
+		    
+		>
+			<LinearLayout
+android:id="@+id/widget45"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:orientation="vertical"
+android:layout_alignParentTop="true"
+android:layout_alignParentLeft="true"
+android:background="@drawable/bt"
+>
+<LinearLayout
+android:id="@+id/widget46"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_gravity="center_horizontal"
+android:layout_marginTop="16px"
+>
+<Button
+android:id="@+id/medicine_photograph"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+android:text="拍照"
+>
+</Button>
+<Button
+android:id="@+id/send"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+android:text="发送"
+>
+</Button>
+</LinearLayout>
+</LinearLayout>
+
+<LinearLayout
+android:id="@+id/widget35"
+android:layout_width="fill_parent"
+android:layout_height="180px"
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:orientation="vertical"
+android:background="@drawable/no"
+>
+<ImageView
+android:id="@+id/medicineinfo_image"
+android:layout_width="fill_parent"
+android:layout_height="145px"
+android:layout_marginTop="18px"
+>
+</ImageView>
+</LinearLayout>
+		</LinearLayout>
+		
+	</ViewAnimator>
+</LinearLayout>

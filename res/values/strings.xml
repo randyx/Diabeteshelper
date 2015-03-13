@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, PanelActivity!</string>
+    <string name="app_name">移动健康管理系统</string>
+   
+   <string name="alert_dialog_two_buttons_title">
+         1型糖尿病介绍
+    </string>
+    <string name="alert_dialog_ok">确定</string>
+    <string name="alert_dialog_cancel">取消</string>
+    <string name="alert_dialog_two_buttons2_msg">
+         1型糖尿病是由于免疫系统发育不良或免疫应激引发的糖尿病。
+         又名胰岛素依赖型糖尿病(IDDM) 或青少年糖尿病，易出现糖尿病酮症酸中毒(DKA)。
+         又叫青年发病型糖尿病，这是因为它常常在35岁以前发病，占糖尿病的10%以下。1型糖尿病是依赖胰岛素治疗的，
+         也就是说病友从发病开始就需使用胰岛素治疗，并且终身使用。
+         原因在于1型糖尿病病友体内胰腺产生胰岛素的细胞已经彻底损坏，从而完全失去了产生胰岛素的功能。
+         在体内胰岛素绝对缺乏的情况下，就会引起血糖水平持续升高，出现糖尿病。
+    </string>
+    <string name="alert_dialog_two_buttons_msg">Header title</string>
+    <string name="alert_dialog_something">Something</string>
+    <string name="select_dialog">糖尿病的类型</string>
+    <string name="select_dialog1">不同热量的糖尿病食谱</string>
+    <string name="select_dialog2">糖尿病人适宜的运动项目</string>
+    <string name="alert_dialog_hide">Hide</string>
+    <string name="alert_dialog_single_choice">Single choice list</string>
+    <string name="alert_dialog_multi_choice">Repeat alarm</string>
+    <string name="alert_dialog_text_entry">请输入您的年龄</string>
+    <string name="alert_dialog_two_buttons">OK Cancel dialog with a message</string>
+    <string name="alert_dialog_two_buttons2">OK Cancel dialog with a long message</string>
+    <string name="alert_dialog_select_button">List dialog</string>
+    <string name="alert_dialog_progress_button">Progress dialog</string>
+    <string name="alert_dialog_username">年龄:</string>
+    <string name="alert_dialog_password">Password:</string>
+    
+    
+    <string name="diet_count_title">您每天需要多少热量呢?</string>
+    <string name="diet_count_content1">如果您是一个小个子，每天都运动的女人，或者您是一个中等个子，但不太运动的女人，那么您需要1200-1600千卡的热量</string>
+    <string name="diet_count_content2">如果您是一个大个子的女人, 又或者您是一个中下等个子，但不太运动的男人，那么您需要1600-2000千卡的热量</string>
+    <string name="diet_count_content3"> 如果您是一个中等个子的男人或者是一个大个子的女人，每天运动或从事体力劳动，那么您需要2000-2400千卡的热量</string>
+    
+    <string name="diet_tip_title">糖尿病饮食须知包括以下几个方面:</string>
+    <string name="diet_tip_content1">(1)控制总热量：合理安排各种营养物质在膳食中所占的比重，以达到或维持理想的热量供应</string>                                           
+    <string name="diet_tip_content2">(2)高纤维膳食：每日宜摄入食物纤维23－40克可缓解肠道对糖的吸收，具有降低血糖的功效</string> 
+    <string name="diet_tip_content3">(3)补充维生素和矿物质元素：人体每日摄入的400毫克维生素E，就能使心血管病发病率下降40%—60%</string>
+    <string name="diet_tip_content4">(4)清淡饮食，少吃盐：每日吃盐6－8克为宜，糖尿病合并高血压者则宜控制在5克以下</string> 
+    <string name="diet_tip_content5">(5)坚持少量多餐：定时、定量、定餐，一天4~5餐为宜</string> 
+    <string name="diet_tip_content6">(6)多饮水：尤其夜间醒来和起床后饮水十分重要，尽量不饮酒或饮少量优质干红酒为宜</string>                                                                
+    <string name="k1200fir">食谱一 /n
+早餐：苏打饼干1两，牛奶150毫升。
+
+午餐：米饭1两，猪舌30克，莴苣笋300克，豆油10克，梨250克。
+
+晚餐：面条1两，豆腐50克。荠菜150克，鸭蛋1个，豆油10克。</string>
+    <string name="k1200sec">食谱二 /n
+
+早餐：豆浆300毫升，鸡蛋1个(50克)，馒头1两，咸菜少许。
+
+午餐：米饭1两，虾仁炒油菜(虾仁50克，油菜200克，烹调油10克)。
+
+晚餐：米糕l两，肉丝炒芹莱丝(肉50克，芹莱150克，烹调油10克)，拍拌黄瓜(黄瓜150克)。</string>
+    <string name="k1400fir">食谱一 /n
+    早餐：馒头1两，豆奶300毫升。午餐：面条1.5两，瘦牛肉75克，豆腐160克，洋葱120克，草莓300克，豆油10克。晚餐：米饭2两，瘦猪肉30克，茭白250克，豆油10克。
+
+    </string>
+    <string name="k1400sec">食谱二 /n
+    早餐：豆浆300毫升，煮鸡蛋1个，小烧饼1两，泡菜少许。
+
+  午餐：米饭1.5两，葱烧海参(葱30克、水发海参300克、烹调油10克)，小白莱汤(小白菜150克、烹调油2克、盐小于2克)。
+
+  晚餐：馒头1两，玉米面粥0.5两，清蒸鱼(鱼肉80克、烹调油2克)，素炒菠莱(菠菜250克、烹调油8克)。
+    </string>
+    
+    <string name="k1600fir">食谱一
+
+  早餐：苏打饼干1两，牛奶150毫升。
+
+  午餐：馄饨皮2两，猪肉20克，香豆腐干50克，胡萝卜200克，豆油10克，梨1个(梨200克)。
+
+  晚餐：米饭1两，海虾200克，蒜苗150克，豆油10克。
+    </string>
+    <string name="k1600sec">食谱二
+
+  早餐：花卷1两，豆浆350毫升。
+
+  午餐：面条2.5两，鲳鱼80克，胡萝卜200克，豆油10克，苹果200克。
+
+  晚餐：米饭2两，臭干80克，猪肉20克，茭白450克，豆油10克。
+    </string>
+    <string name="k1800fir">食谱一
+
+  早餐：咸面包1.5两，牛奶粉35克。
+
+午餐：米饭2.5两，墨鱼150克，香豆腐干50克，芹菜450克。
+
+  晚餐：米饭2两，红壳鸡蛋1个，丝瓜250克，豆油10克。
+
+    </string>
+    
+    <string name="k1800sec">早餐：牛奶1袋，煮鸡蛋1个，咸面包片2片。
+
+  午餐：米饭2两，肉片烧莱花(肉片80克、莱花200克、烹调油10克)，蒜拌海带丝(水发海带100克)。
+
+  加餐：苹果1个(200克)。
+
+  晚餐：玉米熬蓣头2两，雪里蕻炒肉(瘦肉丝50克、雪里蕻100克、烹调油10克)，番茄南豆腐汤(番茄100克、南豆腐100克)。
+
+  睡前半小时：苏打饼干0.7两。
+    </string>
+    <string name="k2000fir">食谱一
+
+  早餐：年糕3两，鹌鹑蛋30克，酸奶120毫升。
+
+  午餐：面条2.5两，带鱼90克，刀豆120克，百叶60克，豆油20克，枇杷400克。
+
+  晚餐：米饭2.5两，猪大排50克，菠菜200克，豆油10克。
+
+    </string>
+    <string name="k2000sec">食谱二
+
+  食谱二
+
+  早餐：牛奶1袋，茶鸡蛋1个，花卷1两，大米粥0.5两。
+
+  加餐：无糖饼干0.5两。
+
+  午餐：米饭2.5两，牛肉烧冬瓜(牛肉100克、冬瓜200克、烹调油15克)，番茄切片(番茄200克)。
+
+  加餐：猕猴桃1个(200克)。
+
+  晚餐：养麦肉丝面(养麦面条125克、肉丝50克、油菜100克、豆腐干50克、木耳少许、烹调油10克)，泡莱少许。
+
+  睡前半小时：苏打饼干0.7两。
+
+
+    </string>
+    <string name="k2200fir">食谱一
+
+  早餐：咸烧饼2两，油条1根，牛奶300毫升。
+
+  午餐：米饭3两，草鱼200克，发芽豆40克，豆油20克，橙子260克。
+
+  晚餐：米饭3两，鸡翅60克，番茄220克，素鸡40克，豆油10克。
+
+    </string>
+    <string name="k2200sec">早餐：馒头2两，豆浆350毫升。
+
+  午餐：米饭3两，河虾150克，胡萝卜250克，豆油20克。
+
+  晚餐：面条2.5两，豆腐120克，猪肉30克，荠菜200克，鲜蘑菇400克，豆油10克。
+
+    </string>
+    <string name="sport1_title">运动时间</string>
+    <string name="sport2_title">运动选择</string>
+    <string name="sport3_title">三点注意</string>
+    <string name="sport1_content">  尽可能在饭后1～2h参加运动，尤其是早餐后是健身运动的最佳时间，因为这时可能是一天中血糖最高的时候，选择这一时间运动往往不必加餐。应提醒患者不要在胰岛素或口服降糖药作用最强的时候运动，否则有可能导致低血糖。有些病人喜欢晨起服药后出去运动，而后再回家吃早餐，这是应该尽量避免的。健身运动时，注射过胰岛素的身体部位尽量不参与剧烈活动。</string>
+    <string name="sport2_content"> 如血糖>6.6mmol/l，可进行健身运动;如血糖在6.0mmol/l左右，应先进10～15g碳水化合物，再健身运动;如低于6.0mmol/l则要进食30g碳水化合物后方可健身运动.长时间大运动量运动后的降糖作用持久，如爬山，郊游等，应及时增加进食量。提倡糖尿病患者持之以衡的进行合理的健身运动。</string>
+    <string name="sport3_content">1、为防低血糖，不要在空腹时运动，运动时随身带些糖果，发生低血糖反应时即进食；
+
+2、防损伤，注意运动周围环境，穿着鞋袜柔软舒适；防寒防暑，看天行事，注意添减衣服；
+
+适可而止，心肺异常者，出现气促、心悸时，应停止运动。伴有心功能不全、冠状动脉供血不足；
+
+3、活动后心律紊乱加重者、伴有严重高血压者（血压大于180/105mmHg）等要慎做运动，最好在运动前咨询专业医务人员，制定切合实际的运动计划。</string>
+<string name="exercise_count_title1">本方法的目的:</string>
+
+<string name="exercise_count_content1">让您能够保持一定的运动强度，即达到锻炼的效果又大大降低了机体受损的危险。更好的控制体能使您在运动中平均的释放体内的糖原。运动要有适当的强度才有利于血糖下降，但强度太大也会有一定的危险，还会使肾上腺素分泌过多，引起血糖升高。</string>
+<string name="exercise_count_title2">测心率常用的方法:</string>
+<string name="exercise_count_content2">按住手腕脉搏测10秒的心率然后乘6得到运动心率值，与目标心率值进行比较</string>
+<string name="exercise_count_title3">特别提示:</string>
+<string name="exercise_count_content3">对于没有运动习惯的人或全身状况较差的患者，运动强度开始时要小，然后逐渐加大，最重要的是要做到持之以恒。患者可根据运动后的感觉来判断运动量是否合适。若运动后，患者轻度的肌肉酸痛，休息后可恢复，次日精神、食欲和睡眠尚可，则运动量适宜；若大汗淋漓、心慌、气喘，脉率在运动后20分钟尚未恢复，次日精神、食欲不振，则运动量过大；若身体未感发热，无汗，脉率无变化或3分钟内恢复正常，则运动量不足。</string>
+
+<string name="exercise_recommend_title1">步行</string>
+<string name="exercise_recommend_title2">太极拳</string>
+<string name="exercise_recommend_title3">慢跑或快走</string>
+<string name="exercise_recommend_title4">瑜伽、舞蹈、健身体操</string>
+<string name="exercise_recommend_title5">游泳</string>
+<string name="exercise_recommend_title6">平时在家里，糖尿病患者也可作运动练习</string>
+<string name="exercise_recommend_content1">步行是国内、外最常用的，应作为首选。每次散步30分钟，每日两次。(糖尿病患者经6小时的徒步旅行后，血糖可降低60毫克升。)</string>
+<string name="exercise_recommend_content2">适合人群：各类人群，特别是老年糖尿病病友。
+
+　　据一项最新研究显示，打太极拳有助于提高2型糖尿病患者的免疫功能，改善其对血糖的控制能力。
+
+　　据报道，2型糖尿病患者会出现慢性炎症，锻炼虽有益健康，但剧烈运动反而可能加剧炎症，甚至引起其他疾病。研究人员对32名参与者进行了为期12周、每周3个小时的太极拳训练后，患者的AIC水平有了大幅度降低(AIC是衡量长期血糖控制的一种标准)，有助于保持免疫系统功能正常，明显改善人体平衡能力和心肺功能，提高葡萄糖的代谢水平。此外，打太极拳对健康人的免疫功能也非常有益。
+
+　　因此，专家建议，把药物治疗与打太极拳适当结合起来，能够提高2型糖尿病患者的葡萄糖代谢能力和免疫功能。</string>
+<string name="exercise_recommend_content3">适合人群：肥胖、行动不便、身体柔韧性、体力、耐力较差的病友，如老年糖尿病患者。
+
+　　研究表明慢跑半小时到1个小时，肺通气量约增加10倍，体内的新陈代谢更旺盛，促进消化吸收。慢跑或快走的运动强度可调节性较大，灵活轻松，推荐选择中等强度。慢跑或快走的速度由慢到快，循序渐进，以感觉全身舒畅为度。最好每日坚持锻炼一次，有困难者每周至少锻炼三次。</string>
+<string name="exercise_recommend_content4">适合人群：从事脑力劳动的糖尿病患者，女性糖尿病患者。
+
+　　健身体操或舞蹈，包括目前很受欢迎的瑜伽，动静适宜，可锻炼到全身各个部位，并且有利于大脑功能。并且，这些运动项目一般都有伴奏音乐，可促进身心愉快，增强锻炼效果</string>
+<string name="exercise_recommend_content5">适合人群：一般病人均可，身体瘦弱的病友可通过游泳增强体质、增加肌肉力量。
+
+　　需要注意的是，糖尿病病人运动时最好有专业人员的指导并有人监护，特别是怀孕的病友一定要严格在专业的糖尿病医生和妇产科医生共同指导下进行运动。</string>
+<string name="exercise_recommend_content6">方法一：踮脚尖。将手扶在椅背上踮脚尖(左右交替提足跟)10—15分钟</string>
+<string name="exercise_recommend_content7">方法二：爬楼梯。上楼梯时，背部要伸直，速度要依体力而定</string>
+<string name="exercise_recommend_content8">方法三：坐椅运动。屈肘，两手叉腰，背部挺直，椅上坐、立反复进行，时间以自己体力而定</string>
+<string name="exercise_recommend_content9">方法四：抗衡运动。双手支撑在墙壁上，双脚并立使上体前倾，以增加肌肉张力，每次支撑15秒左右，做3—5次</string>
+<string name="exercise_recommend_content10">方法五：床上运动。平躺床上，将脚抬高(可用棉被或枕头将脚部垫高)，等脚发麻时再慢慢坐起来，如此反复。以上五种运动形式，可任选其一，也可交替进行。</string>
+   
+<string name="application_name">移动健康管理系统</string>  
+<string name="application_description">\n该软件可以帮助用户记录自己的血压、脉搏信息，并为患者根据自身情况提供简单的统计分析功能、定时提醒功能以及糖尿病健康教育功能，简单预测存在的高血压风险。</string>  
+<string name="control_panel_name">控制面板</string>
+
+<string name="babyitem_1">小儿生下来28天后，至1周岁为“婴儿期”，又称“乳儿期”。这阶段的小儿生 长发育特别迅速，1周岁时体重约可为生下来时的3倍，身长为1.5倍。所以这时 期对营养的需求特别多，但又因为消化功能较差而容易发生呕吐、腹泻、贫血、 营养不良等疾病。因此婴儿期最好以母乳喂养，并适时添加辅食，强调乳、食有 时有节。提倡多晒太阳，注意饮食卫生，使婴儿脾胃功能逐渐增强，保证生长发育。</string> 
+  <string name="babyitem_2">母乳营养丰富，蛋白质、脂肪、糖的比例适当，容易消化、吸收。母乳中含有优 质蛋白质、必需氨基酸及较多乳糖，有利于婴儿脑的发育；母乳的钙、磷比例适 当，能较好地被婴儿吸收利用；母乳缓冲力小，对胃酸中和作用弱，有利于消化， 在胃内停留时间也较牛奶短；母乳中还含有免疫球蛋白和乳铁蛋白，具有增进 婴儿免疫力的作用。而且，母乳的量还能随着婴儿的生长而增加，温度以及泌乳 速度也较适宜，没有外来污染，几乎为无菌食品，直接喂哺简单方便，又十分经 济。母乳喂养还可以避免婴儿对牛奶、羊奶等异种蛋白的过敏反应。母亲自己给 孩子喂哺，有利于促进母子感情，可以密切观察小儿变化，做到随时照顾护理； 而且产后哺乳可刺激子宫收缩，促使母亲早日恢复。因此，我们大力提倡母乳喂养。</string> 
+  <string name="babyitem_3">在婴儿期，孩子脏腑尚嫩，尤其是“脾常不足”和其对于食物需要之间的矛盾， 常常导致喂养稍有不当，就容易引起呕吐、泄泻、疳积等疾病。婴儿肺卫功能也 较差，饮食、寒温等方面应该继续注意调护，注意预防感冒肺炎的发生。否则， 孩子会因为体质弱，机体不能耐受高热和毒素的刺激，而发生惊厥。半岁以后， 婴儿抗体逐渐减弱，来自母体的被动免疫已告结束，外界刺激又增多，一旦接触 传染病，发病的可能性就增大。因此，应做好预防接种工作，降低发病率。</string> 
+
+<string name="function_record">记录</string>
+<string name="function_reminder">提醒</string>
+<string name="function_education">个人信息</string>
+<string name="function_setting">设置</string>
+<string name="function_help">帮助</string>
+
+<string name="diabetes_information">血压信息</string>
+
+<string name="add_recorder">添加</string>
+<string name="search_recorder">检索</string>
+<string name="show_recorder">显示</string>
+
+<string name="add_recorder_glocuse">收缩压</string>
+<string name="add_recorder_carb">舒张压</string>
+<string name="add_recorder_insulin">脉搏</string>
+
+<string name="pre_breakfast">早饭前</string>
+<string name="post_breakfast">早饭后</string>
+<string name="pre_lunch">午饭前</string>
+<string name="post_lunch">午饭后</string>
+<string name="pre_dinner">晚饭前</string>
+<string name="post_dinner">晚饭后</string>
+<string name="night">夜晚</string>
+
+<string name="choose_tag">请选择时段</string>
+
+<string name="basic_setting">基本设置</string>
+<string name="date_unit">时间范围</string>
+
+<string name="display_pattern">显示方式</string>
+<string name="display_catlog">数据类型</string>
+
+<string name="line_pattern">线</string>
+<string name="scatter_pattern">点</string>
+
+<string name="choose_display_pattern">请选择显示方式</string>
+<string name="choose_display_catlog">请选择数据类型</string>
+
+<string name="overview">整体情况</string>
+<string name="glocuse_average">血压平均水平</string>
+<string name="glocuse_by_categary">不同时段收缩压平均水平</string>
+<string name="carb_by_categary">不同时段舒张压平均水平</string>
+<string name="insuline_by_categary">不同时段脉搏平均水平</string>
+
+<string name="statistics_table">统计表</string>
+</resources>

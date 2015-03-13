@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"  
+     android:id="@+id/ScrollView" android:layout_width="fill_parent"  
+     android:layout_height="wrap_content" android:scrollbars="vertical"> 
+<LinearLayout
+android:id="@+id/widget0"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:orientation="vertical"
+>
+ <TextView
+        android:layout_width="fill_parent" android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="22sp"
+        android:typeface="sans"
+        android:text="糖尿病人运动强度控制"
+        android:textStyle="bold"/>
+
+<ImageView android:id="@+id/tfoodta" 
+ android:layout_width="wrap_content" 
+ android:layout_height="wrap_content" 
+ android:layout_gravity="center"
+ android:src="@drawable/exercise1" /> 
+
+<TextView
+android:id="@+id/TextView01"
+android:textColor="#DF8326"
+android:layout_width="wrap_content"
+android:layout_height="18px" 
+>
+</TextView>
+ <TextView
+android:id="@+id/TextView02"
+android:textColor="#DF8326"
+android:layout_width="wrap_content"
+android:layout_height="18px" 
+android:layout_y="50px"
+>
+</TextView>
+
+<TextView
+android:id="@+id/TextView03"
+android:textColor="#DF8326"
+android:layout_width="wrap_content"
+android:layout_height="18px" 
+android:layout_y="50px"
+>
+</TextView>
+<TextView
+        android:layout_width="fill_parent" android:layout_height="wrap_content"
+        android:gravity="left"
+        android:textSize="18sp"
+        android:typeface="sans"
+        android:text="@string/exercise_count_title1"
+        android:textStyle="bold"/>
+        
+        <TextView
+        android:layout_width="fill_parent" android:layout_height="wrap_content"
+        android:gravity="left"
+        android:textSize="15sp"
+        android:typeface="sans"
+        android:text="@string/exercise_count_content1"
+        android:textStyle="normal"/>
+        
+        <TextView
+        android:layout_width="fill_parent" android:layout_height="wrap_content"
+        android:gravity="left"
+        android:textSize="18sp"
+        android:typeface="sans"
+        android:text="@string/exercise_count_title2"
+        android:textStyle="bold"/>
+        
+        <TextView
+        android:layout_width="fill_parent" android:layout_height="wrap_content"
+        android:gravity="left"
+        android:textSize="15sp"
+        android:typeface="sans"
+        android:text="@string/exercise_count_content2"
+        android:textStyle="normal"/>
+        
+        <TextView
+        android:layout_width="fill_parent" android:layout_height="wrap_content"
+        android:gravity="left"
+        android:textSize="18sp"
+        android:typeface="sans"
+        android:text="@string/exercise_count_title3"
+        android:textStyle="normal"/>
+        
+        <TextView
+        android:layout_width="fill_parent" android:layout_height="wrap_content"
+        android:gravity="left"
+        android:textSize="15sp"
+        android:typeface="sans"
+        android:text="@string/exercise_count_content3"
+        android:textStyle="normal"/>
+
+<Button
+android:id="@+id/Button03"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:layout_x="137px"
+android:layout_y="120px"
+android:text="返回"
+android:layout_gravity="center_horizontal"
+>
+</Button>
+</LinearLayout>
+</ScrollView>

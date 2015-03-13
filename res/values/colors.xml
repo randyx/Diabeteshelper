@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+	<color name="background">#9ba</color>
+	<color name="transparent_background">#0000FF</color>   
+    <color name="translucent_background">#C2CE99</color>   
+    <color name="blue">#0000FF</color>   
+    <color name="white">#FFFFFF</color>   
+    <color name="pink">#FFC8FF</color>   
+    <color name="darkgreen">#008800</color>
+    <drawable name="black">#ff000000</drawable>
+    <drawable name="white">#ffffffff</drawable>
+    <drawable name="gray">#7700ff00</drawable>
+    <drawable name="red">#990033</drawable>
+    <drawable name="green1">#D7F5DB</drawable>
+    <drawable name="green2">#D7F5DB</drawable>
+    <drawable name="green3">#97E8A2</drawable>
+    <drawable name="green4">#97E8A2</drawable>
+    <drawable name="green5">#54B361</drawable>
+    <drawable name="green6">#54B361</drawable>
+    <drawable name="green7">#2F873A</drawable>
+    <drawable name="green8">#2F873A</drawable>
+    <drawable name="green9">#134C1B</drawable>
+    <drawable name="green10">#134C1B</drawable>
+    <drawable name="green11">#062F0B</drawable>
+    <!--  
+    <drawable name="color1">#ECB8E9</drawable>
+    <drawable name="color2">#DDA15A</drawable>
+    <drawable name="color3">#9FE3EB</drawable>
+    <drawable name="color4">#F4A9B6</drawable>
+    <drawable name="color5">#F3F4A9</drawable>
+    <drawable name="color6">#91F1C5</drawable>
+    -->
+    <drawable name="color1">#66CD00</drawable>
+    <drawable name="color2">#90EE90</drawable>
+    <drawable name="color3">#CAFF70</drawable>
+    <drawable name="color4">#FFA07A</drawable>
+    <drawable name="color5">#FF4040</drawable>
+    <drawable name="color6">#FF0000</drawable>
+</resources>

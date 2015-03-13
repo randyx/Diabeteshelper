@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:panel="http://schemas.android.com/apk/res/mconnect.mdiabetes.framework"
+    android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:background="#688"
+>
+	<LinearLayout
+	    android:orientation="vertical"
+	    android:layout_width="fill_parent"
+	    android:layout_height="fill_parent"
+	>
+		
+		<TextView
+			android:id="@+id/widget29"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:text="@string/application_name"
+			android:textSize="20sp"
+			android:textStyle="bold"
+			android:gravity="center"
+			android:layout_marginTop="25px"
+			
+			android:textColor="@drawable/white"
+		>
+		</TextView>
+		
+		<TextView
+		    android:layout_width="fill_parent" 
+		    android:layout_height="wrap_content" 
+		    android:layout_weight="1"
+		    android:textSize="16dip"
+		    android:padding="4dip"
+		    android:textColor="@drawable/gray"
+		    android:layout_marginLeft="14px"
+		    android:text="@string/application_description"
+		/>
+			<org.miscwidgets.widget.Panel
+		    android:layout_width="fill_parent" 
+		    android:layout_height="wrap_content" 
+		    android:id="@+id/bottomPanel"
+		    panel:handle="@+id/panelHandle"
+		    panel:content="@+id/panelContent"
+		    panel:position="bottom"
+		    panel:animationDuration="1200"
+		    panel:openedHandle="@drawable/bottom_switcher_expanded_background"
+		    panel:closedHandle="@drawable/bottom_switcher_collapsed_background"
+		>
+			<Button
+				android:id="@+id/panelHandle" 
+			    android:layout_width="fill_parent" 
+			    android:layout_height="33dip" 
+			/>
+			<LinearLayout
+				android:id="@+id/panelContent" 
+			    android:orientation="vertical"
+	    		android:layout_width="fill_parent"
+	    		android:layout_height="fill_parent"
+			>
+				<TextView
+				    android:layout_width="fill_parent" 
+				    android:layout_height="wrap_content" 
+				    android:gravity="center"
+				    android:text="@string/control_panel_name"
+				    android:textSize="16dip"
+				    android:padding="4dip"
+				    android:textColor="#eee"
+				    android:textStyle="bold"
+				    android:background="#993333"
+				/>
+				
+				<GridView     
+    				android:id="@+id/gride"  
+    				android:layout_width="fill_parent"    
+    				android:layout_height="fill_parent" 
+					android:numColumns="3" 
+    				android:verticalSpacing="8dip"  
+    				android:paddingTop="8px"
+    				
+    				android:paddingBottom="20px"
+    			/>
+    			
+			</LinearLayout>
+		</org.miscwidgets.widget.Panel>
+		
+	</LinearLayout>
+</FrameLayout>

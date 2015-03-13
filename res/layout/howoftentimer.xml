@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@+id/widget27"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	xmlns:android="http://schemas.android.com/apk/res/android">
+	<LinearLayout android:id="@+id/widget52"
+		android:layout_width="fill_parent" android:layout_height="wrap_content"
+		xmlns:android="http://schemas.android.com/apk/res/android"
+		android:layout_alignParentTop="true" android:layout_alignParentLeft="true">
+		<ImageView android:id="@+id/set_timer_image"
+			android:layout_width="25px" android:layout_height="25px"
+			android:layout_gravity="center_vertical" android:layout_marginRight="8px"
+			android:layout_marginLeft="8px">
+		</ImageView>
+		<TextView android:id="@+id/set_timer_text"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:text="TextView" android:textSize="24sp" android:textColor="@drawable/black"
+			android:layout_marginTop="10px" android:layout_marginBottom="10px">
+		</TextView>
+	</LinearLayout>
+</RelativeLayout>

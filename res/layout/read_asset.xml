@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+     
+ >
+   <LinearLayout android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+    <ImageView android:id="@+id/title_img" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="5px" android:src="@drawable/title_img" /> 
+        <TextView
+        android:layout_width="fill_parent" android:layout_height="wrap_content"
+        android:gravity="left"
+        android:textSize="20sp"
+        android:typeface="sans"
+        android:text="糖尿病饮食六大黄金原则"
+        android:textStyle="bold"/>
+        
+        
+   </LinearLayout>        
+        <TextView
+            android:id="@+id/fat_men"
+            android:layout_width="fill_parent" android:layout_height="wrap_content"
+        android:gravity="right"
+        android:textSize="12sp"
+        android:typeface="serif"
+        android:text="来源：39健康网"
+        android:textStyle="italic"/>
+        
+   <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"  
+     android:id="@+id/ScrollView" android:layout_width="fill_parent"  
+     android:layout_height="wrap_content" android:scrollbars="vertical"> 
+<LinearLayout
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+      android:scrollbars="vertical"
+ >
+ <ImageView android:id="@+id/tfoodta" 
+ android:layout_width="wrap_content" 
+ android:layout_height="wrap_content" 
+ android:layout_gravity="center"
+ android:src="@drawable/foodta" /> 
+ 
+        
+        
+        <TextView
+        android:layout_width="fill_parent" android:layout_height="wrap_content"
+        android:gravity="left"
+        android:textSize="15sp"
+        android:typeface="sans"
+        android:text="@string/diet_tip_content1"
+        android:textStyle="normal"/>
+        
+        <TextView
+        android:layout_width="fill_parent" android:layout_height="wrap_content"
+        android:gravity="left"
+        android:textSize="15sp"
+        android:typeface="sans"
+        android:text="@string/diet_tip_content2"
+        android:textStyle="normal"/>
+        
+        <TextView
+        android:layout_width="fill_parent" android:layout_height="wrap_content"
+        android:gravity="left"
+        android:textSize="15sp"
+        android:typeface="sans"
+        android:text="@string/diet_tip_content3"
+        android:textStyle="normal"/>
+    
+        
+        <TextView
+        android:layout_width="fill_parent" android:layout_height="wrap_content"
+        android:gravity="left"
+        android:textSize="15sp"
+        android:typeface="sans"
+        android:text="@string/diet_tip_content4"
+        android:textStyle="normal"/>
+ 
+   
+        
+        <TextView
+        android:layout_width="fill_parent" android:layout_height="wrap_content"
+        android:gravity="left"
+        android:textSize="15sp"
+        android:typeface="sans"
+        android:text="@string/diet_tip_content5"
+        android:textStyle="normal"/>
+        
+         <TextView
+        android:layout_width="fill_parent" android:layout_height="wrap_content"
+        android:gravity="left"
+        android:textSize="15sp"
+        android:typeface="sans"
+        android:text="@string/diet_tip_content6"
+        android:textStyle="normal"/>
+ 
+  </LinearLayout>
+  </ScrollView>
+        
+</LinearLayout>
+
+

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@+id/widget27"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	xmlns:android="http://schemas.android.com/apk/res/android">
+	<LinearLayout android:id="@+id/widget28"
+		android:layout_width="fill_parent" android:layout_height="fill_parent"
+		xmlns:android="http://schemas.android.com/apk/res/android"
+		android:orientation="vertical" android:layout_alignParentTop="true"
+		android:layout_alignParentLeft="true">
+		<TextView android:id="@+id/widget29" android:layout_width="fill_parent"
+			android:layout_height="wrap_content" android:text="范围设置"
+			android:background="@drawable/color2"
+			android:textSize="18sp" android:textStyle="bold" android:textColor="@drawable/black"
+			>
+		</TextView>
+		<ListView android:id="@+id/list_range" android:layout_width="fill_parent"
+			android:layout_height="wrap_content">
+		</ListView>
+		<TextView android:id="@+id/widget31" android:layout_width="fill_parent"
+			android:layout_height="wrap_content" android:text=""
+			android:textStyle="bold">
+		</TextView>
+		<ListView android:id="@+id/list_unit_2" android:layout_width="fill_parent"
+			android:layout_height="wrap_content">
+		</ListView>
+	</LinearLayout>
+</RelativeLayout>

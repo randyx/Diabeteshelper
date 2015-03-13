@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="mconnect.mdiabetes.framework"
+      android:versionCode="1"
+      android:versionName="1.0">
+      <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+      <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <application android:icon="@drawable/treasurecase" android:label="@string/app_name">
+        
+        <provider android:name="mconnect.mdiabetes.framework.DataProvider"
+			android:authorities="com.chen.provider.diabeteshelper">
+		</provider>
+        
+        <activity android:name=".startForm"
+                  android:label="@string/app_name" android:theme="@style/iTitleTheme2">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        
+        <activity 
+        	android:name=".PanelActivity"
+        	android:theme="@style/iTitleTheme2"
+        ></activity>
+        
+        <activity android:name=".Tab1" android:theme="@style/iTitleTheme2"></activity>
+        
+        <activity android:name=".Graphic"></activity>
+        <activity android:name="org.achartengine.GraphicalActivity" />
+        
+        <activity android:name=".testLayout" />
+        
+        <activity android:name=".Setting" android:theme="@style/iTitleTheme2"/>
+        
+        
+        <activity android:name=".GalleryTest" android:theme="@style/iTitleTheme2"/>
+        
+        
+        
+        <activity android:name=".ApiDemos" android:theme="@style/iTitleTheme2"/>
+        
+        <activity android:name=".Statistics" />
+        
+        <activity android:name=".recordActivity" />
+        <activity android:name=".Bluetooth"></activity>
+        <activity android:name=".chatActivity"></activity>
+        <activity android:name=".deviceActivity"></activity>
+        
+        
+        <activity android:name="mconnect.mdiabetes.statistics.GlocuseAverage" android:theme="@style/iTitleTheme2"/>
+        <activity android:name="mconnect.mdiabetes.statistics.OverView" android:theme="@style/iTitleTheme2"/>
+        <activity android:name="mconnect.mdiabetes.statistics.GlocuseByCategary" android:theme="@style/iTitleTheme2"/>
+        
+        <activity android:name="mconnect.mdiabetes.reminder.Reminder" android:theme="@style/iTitleTheme2"/>
+       
+        
+       
+        
+           
+        
+        <activity android:name="mconnect.mdiabetes.reminder.TestCustomTitle"  android:theme="@style/iTitleTheme2">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.SAMPLE_CODE" />
+            </intent-filter>
+        </activity>
+		
+		<receiver android:name="mconnect.mdiabetes.reminder.UpNotificationListener" >
+      		<intent-filter>
+        		<action android:name="android.intent.action.BOOT_COMPLETED" />
+        		<category android:name="android.intent.category.HOME" />
+      		</intent-filter>
+    	</receiver>
+    	
+    	<service android:enabled="true" android:name="mconnect.mdiabetes.reminder.MyService" />
+    	
+    	
+    	
+    	<activity android:name="mconnect.mdiabetes.education.education">
+                 
+        </activity>
+        <activity android:name="mconnect.mdiabetes.education.insulin1" />
+           <activity android:name="mconnect.mdiabetes.education.insulin" />
+          <activity android:name="mconnect.mdiabetes.education.medicine1" />
+          <activity android:name="mconnect.mdiabetes.education.medicine" />
+          <activity android:name="mconnect.mdiabetes.education.knowledge" />
+          <activity android:name="mconnect.mdiabetes.education.psychological" />
+          <activity android:name="mconnect.mdiabetes.education.glucose" />
+          <activity android:name="mconnect.mdiabetes.education.weight" />
+          <activity android:name="mconnect.mdiabetes.education.weight1" />
+          <activity android:name="mconnect.mdiabetes.education.index" />
+          <activity android:name="mconnect.mdiabetes.education.index1" />
+          <activity android:name="mconnect.mdiabetes.education.dietPlan" />
+          <activity android:name="mconnect.mdiabetes.education.dietCounting" />
+          <activity android:name="mconnect.mdiabetes.education.k1200" />
+        <activity android:name="mconnect.mdiabetes.education.k1400" />
+        <activity android:name="mconnect.mdiabetes.education.k1600" />
+        <activity android:name="mconnect.mdiabetes.education.k1800" />
+        <activity android:name="mconnect.mdiabetes.education.k2000" />
+        <activity android:name="mconnect.mdiabetes.education.k2200" />
+        <activity android:name="mconnect.mdiabetes.education.exerciseTip" />
+        <activity android:name="mconnect.mdiabetes.education.Next"/> 
+        <activity android:name="mconnect.mdiabetes.education.atHome"/>
+        <activity android:name="mconnect.mdiabetes.education.jog"/>
+        <activity android:name="mconnect.mdiabetes.education.swimming"/>
+        <activity android:name="mconnect.mdiabetes.education.taiji"/>
+        <activity android:name="mconnect.mdiabetes.education.walk"/>
+        <activity android:name="mconnect.mdiabetes.education.yoga"/>
+
+    </application>
+	<uses-sdk 	android:minSdkVersion="3"
+    		  	android:targetSdkVersion="4" 
+          		android:maxSdkVersion="7" />
+	<uses-permission android:name="android.permission.BLUETOOTH"/>
+	<uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+	<uses-permission android:name="android.permission.READ_CONTACTS"/>
+	
+
+</manifest> 

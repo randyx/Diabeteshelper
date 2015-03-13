@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/android-misc-widgets/src/org/miscwidgets/interpolator
+END
+QuartInterpolator.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3/trunk/android-misc-widgets/src/org/miscwidgets/interpolator/QuartInterpolator.java
+END
+SineInterpolator.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3/trunk/android-misc-widgets/src/org/miscwidgets/interpolator/SineInterpolator.java
+END
+CircInterpolator.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3/trunk/android-misc-widgets/src/org/miscwidgets/interpolator/CircInterpolator.java
+END
+QuintInterpolator.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3/trunk/android-misc-widgets/src/org/miscwidgets/interpolator/QuintInterpolator.java
+END
+BackInterpolator.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3/trunk/android-misc-widgets/src/org/miscwidgets/interpolator/BackInterpolator.java
+END
+ElasticInterpolator.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3/trunk/android-misc-widgets/src/org/miscwidgets/interpolator/ElasticInterpolator.java
+END
+CubicInterpolator.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3/trunk/android-misc-widgets/src/org/miscwidgets/interpolator/CubicInterpolator.java
+END
+EasingType.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/android-misc-widgets/src/org/miscwidgets/interpolator/EasingType.java
+END
+QuadInterpolator.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3/trunk/android-misc-widgets/src/org/miscwidgets/interpolator/QuadInterpolator.java
+END
+ExpoInterpolator.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3/trunk/android-misc-widgets/src/org/miscwidgets/interpolator/ExpoInterpolator.java
+END
+BounceInterpolator.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3/trunk/android-misc-widgets/src/org/miscwidgets/interpolator/BounceInterpolator.java
+END

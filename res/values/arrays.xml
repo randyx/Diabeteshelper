@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string-array name="baby_items">
+        <item>婴儿期护养要点</item>
+        <item>母乳喂养的重要性</item>
+        <item>预防常见病</item>
+    </string-array> 
+    
+    <string-array name="select_dialog_items">
+        <item>一型糖尿病</item>
+        <item>二型糖尿病</item>
+        <item>妊娠糖尿病</item>
+    </string-array>
+    
+    <string-array name="select_dialog_items2">
+        <item>1200千卡能量食谱</item>
+        <item>1400千卡能量食谱</item>
+        <item>1600千卡能量食谱</item>
+        <item>1800千卡能量食谱</item>
+        <item>2000千卡能量食谱</item>
+        <item>2200千卡能量食谱</item>
+    </string-array>
+    
+    
+    <string-array name="select_dialog_items3">
+        <item>步行</item>
+        <item>游泳</item>
+        <item>太极拳</item>
+        <item>慢跑或快走</item>
+        <item>瑜伽、舞蹈、健身体操</item>
+        <item>平时在家里，糖尿病患者也可作运动练习</item>
+    </string-array>
+    
+    <string-array name="listhospital">
+  <item>第一医院</item> 
+  <item>第二医院</item> 
+  <item>第三医院</item> 
+  <item>第四医院</item> 
+  <item>第五医院</item> 
+  </string-array>
+</resources>
